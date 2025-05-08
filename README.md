@@ -1,4 +1,4 @@
-[![MasterHead](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Assalamu'alaikum+Warahmatullah+👋;I'm+Pitok+a+Fullstack+Developer;Next.js+%7C+Express.js+%7C+TailwindCSS+%7C+Prisma)](https://github.com/pitok)
+[![MasterHead](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Assalamu'alaikum+Warahmatullah+👋;I'm+Pito+Desri+Pauzi+a+Fullstack+Web+Developer;Next.js+%7C+Express.js+%7C+TailwindCSS+%7C+Prisma)](https://github.com/pitok)
 
 <h1 align="center">Hi 👋, I'm Pito Desri Pauzi</h1>
 <h3 align="center">A passionate FullStack Web Developer from Indonesia</h3>
