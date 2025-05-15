@@ -16,7 +16,7 @@
 - 🔭 I’m currently a student at **Politeknik Negeri Padang**
 - 🌱 I’m currently learning **Backend**
 - 📫 Reach me at **pitokfauzi@gmail.com**
-- ⚡ Fun fact: **I am Funny**
+- ⚡ Fun fact: **I am Funny but not with Romance**
 
 ---
 
